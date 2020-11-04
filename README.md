@@ -60,7 +60,7 @@ print("Nama saya adalah...")
 print(1234567)
 ```
 (Seperti gambar dibawah ini)<br> 
-![Output fungsi Print](gambar/output_print.PNG )
+![gitpush](foto/2.png) <br>
  * Untuk source code berikutnya adalah inputan atau membuat variable. seperti syntax dibawah ini :
  ```python
 fullname=input()
