@@ -253,7 +253,7 @@ Hasil dari source code contoh diatas akan muncul seperti ini :<br>
 ![gitpush](foto/10.png)
 <br><br>
 Untuk hasil dari String Format 2 adalah :<br>
-![Output String Format 2](gambar/string2.PNG)
+![gitpush](foto/11.png)
 
 <br><hr><br>
 
