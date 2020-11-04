@@ -278,7 +278,7 @@ print("hasil pembagian {1}/{0}=%d".format(a,b) %(a/b))
 <br>
 Setelah saya menjelaskan source code tersebut terdapat error, seperti gambar dibawah ini :<br>
 
-![Error Lab 2](gambar/error1.PNG)<br>
+![gitpush](foto/13.png) <br>
 Nah, untuk kali ini kita akan membaca error yang telah terjadi.<br>
 > **TypeError: %d format: a  number is required, not str** <br>
 
