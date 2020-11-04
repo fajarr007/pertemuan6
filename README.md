@@ -310,7 +310,7 @@ print("hasil pejumlahan {1}+{0}=%d".format(a,b) %(a+b))
 print("hasil pembagian {1}/{0}=%d".format(a,b) %(a/b))
 ```
 Kita akan coba lagi untuk *run* file tersebut, maka akan muncul seperti gambar dibawah ini :<br>
- ![Fixed Error Lab 2](gambar/fixed.PNG)
+ ![gitpush](foto/sukses.png)
  <br><br>
  <hr>
  Setelah semua file berhasil disimpan dan dijalankan berhasil, maka selesai sudah Tugas pertemuan 6 - Bahasa pemrograman kali ini.
