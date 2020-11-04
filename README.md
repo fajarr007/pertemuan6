@@ -146,7 +146,7 @@ print('Y')
 print('z')
 ```
 Hasil dari source code tersebut seperti gambar dibawah ini :<br>
-![Output END](gambar/lab1_end.PNG)
+![gitpush](foto/5.png)
 
 * Penggunaan separator
 
